@@ -1,0 +1,20 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styles */
+header {
+    background-color: lightblue;
+    color: black;
+    padding: 1em;
+    text-align: center;
+}
+
+/* Navigation styles */
+nav {
+    position: relative;
+    width: 100%; /* Ensure nav spans the full width of the page */
+}
